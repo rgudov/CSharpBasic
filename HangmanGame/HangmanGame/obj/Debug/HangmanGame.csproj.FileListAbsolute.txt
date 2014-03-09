@@ -1,0 +1,6 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\HangmanGame\HangmanGame\bin\Debug\HangmanGame.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\HangmanGame\HangmanGame\bin\Debug\HangmanGame.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\HangmanGame\HangmanGame\bin\Debug\HangmanGame.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\HangmanGame\HangmanGame\obj\Debug\HangmanGame.csprojResolveAssemblyReference.cache
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\HangmanGame\HangmanGame\obj\Debug\HangmanGame.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\HangmanGame\HangmanGame\obj\Debug\HangmanGame.pdb
