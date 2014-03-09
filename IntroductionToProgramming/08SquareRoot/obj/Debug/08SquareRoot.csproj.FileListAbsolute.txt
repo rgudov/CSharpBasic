@@ -1,0 +1,8 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\08SquareRoot\bin\Debug\08SquareRoot.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\08SquareRoot\bin\Debug\08SquareRoot.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\08SquareRoot\bin\Debug\08SquareRoot.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\08SquareRoot\obj\Debug\08SquareRoot.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\08SquareRoot\obj\Debug\08SquareRoot.pdb
+C:\Users\rgudo_000\Documents\GitHub\CSharpPartOne\IntroductionToProgramming\08SquareRoot\bin\Debug\08SquareRoot.exe.config
+C:\Users\rgudo_000\Documents\GitHub\CSharpPartOne\IntroductionToProgramming\08SquareRoot\obj\Debug\08SquareRoot.exe
+C:\Users\rgudo_000\Documents\GitHub\CSharpPartOne\IntroductionToProgramming\08SquareRoot\obj\Debug\08SquareRoot.pdb

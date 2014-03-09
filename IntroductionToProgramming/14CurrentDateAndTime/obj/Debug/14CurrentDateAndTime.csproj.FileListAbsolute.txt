@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\14CurrentDateAndTime\bin\Debug\14CurrentDateAndTime.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\14CurrentDateAndTime\obj\Debug\14CurrentDateAndTime.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\IntroductionToProgramming\14CurrentDateAndTime\obj\Debug\14CurrentDateAndTime.pdb
