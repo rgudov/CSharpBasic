@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

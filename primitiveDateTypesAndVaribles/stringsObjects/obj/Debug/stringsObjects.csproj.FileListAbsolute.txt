@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\stringsObjects\bin\Debug\stringsObjects.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\stringsObjects\bin\Debug\stringsObjects.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\stringsObjects\bin\Debug\stringsObjects.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\stringsObjects\obj\Debug\stringsObjects.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\stringsObjects\obj\Debug\stringsObjects.pdb

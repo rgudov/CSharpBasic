@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\ASCIITable\bin\Debug\ASCIITable.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\ASCIITable\bin\Debug\ASCIITable.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\ASCIITable\bin\Debug\ASCIITable.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\ASCIITable\obj\Debug\ASCIITable.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\ASCIITable\obj\Debug\ASCIITable.pdb

@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\unicodeValue\bin\Debug\unicodeValue.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\unicodeValue\bin\Debug\unicodeValue.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\unicodeValue\bin\Debug\unicodeValue.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\unicodeValue\obj\Debug\unicodeValue.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\primitiveDateTypesAndVaribles\unicodeValue\obj\Debug\unicodeValue.pdb
