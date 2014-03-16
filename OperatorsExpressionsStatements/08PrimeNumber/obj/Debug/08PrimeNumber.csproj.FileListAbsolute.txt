@@ -1,0 +1,6 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\08PrimeNumber\bin\Debug\08PrimeNumber.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\08PrimeNumber\obj\Debug\08PrimeNumber.csprojResolveAssemblyReference.cache
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\08PrimeNumber\bin\Debug\08PrimeNumber.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\08PrimeNumber\bin\Debug\08PrimeNumber.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\08PrimeNumber\obj\Debug\08PrimeNumber.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\08PrimeNumber\obj\Debug\08PrimeNumber.pdb

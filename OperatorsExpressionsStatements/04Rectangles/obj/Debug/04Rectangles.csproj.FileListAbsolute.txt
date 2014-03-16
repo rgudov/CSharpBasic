@@ -1,0 +1,6 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\04Rectangles\bin\Debug\04Rectangles.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\04Rectangles\bin\Debug\04Rectangles.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\04Rectangles\bin\Debug\04Rectangles.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\04Rectangles\obj\Debug\04Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\04Rectangles\obj\Debug\04Rectangles.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\04Rectangles\obj\Debug\04Rectangles.pdb

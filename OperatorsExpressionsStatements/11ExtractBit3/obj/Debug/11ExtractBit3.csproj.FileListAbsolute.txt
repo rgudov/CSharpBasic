@@ -1,0 +1,6 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\11ExtractBit3\bin\Debug\11ExtractBit3.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\11ExtractBit3\bin\Debug\11ExtractBit3.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\11ExtractBit3\bin\Debug\11ExtractBit3.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\11ExtractBit3\obj\Debug\11ExtractBit3.csprojResolveAssemblyReference.cache
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\11ExtractBit3\obj\Debug\11ExtractBit3.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\11ExtractBit3\obj\Debug\11ExtractBit3.pdb

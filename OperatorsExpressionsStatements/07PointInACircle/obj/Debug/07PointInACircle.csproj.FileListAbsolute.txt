@@ -1,0 +1,6 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\07PointInACircle\bin\Debug\07PointInACircle.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\07PointInACircle\obj\Debug\07PointInACircle.csprojResolveAssemblyReference.cache
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\07PointInACircle\bin\Debug\07PointInACircle.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\07PointInACircle\bin\Debug\07PointInACircle.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\07PointInACircle\obj\Debug\07PointInACircle.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\07PointInACircle\obj\Debug\07PointInACircle.pdb

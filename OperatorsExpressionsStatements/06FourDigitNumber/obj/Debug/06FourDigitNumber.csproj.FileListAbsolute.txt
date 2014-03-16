@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

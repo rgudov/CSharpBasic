@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\15BitsExchange\bin\Debug\15BitsExchange.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\15BitsExchange\bin\Debug\15BitsExchange.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\15BitsExchange\bin\Debug\15BitsExchange.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\15BitsExchange\obj\Debug\15BitsExchange.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\15BitsExchange\obj\Debug\15BitsExchange.pdb

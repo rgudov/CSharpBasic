@@ -1,0 +1,6 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\10PointInsideCircleOutsideRectangle\bin\Debug\10PointInsideCircleOutsideRectangle.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\10PointInsideCircleOutsideRectangle\bin\Debug\10PointInsideCircleOutsideRectangle.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\10PointInsideCircleOutsideRectangle\bin\Debug\10PointInsideCircleOutsideRectangle.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\10PointInsideCircleOutsideRectangle\obj\Debug\10PointInsideCircleOutsideRectangle.csprojResolveAssemblyReference.cache
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\10PointInsideCircleOutsideRectangle\obj\Debug\10PointInsideCircleOutsideRectangle.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\10PointInsideCircleOutsideRectangle\obj\Debug\10PointInsideCircleOutsideRectangle.pdb

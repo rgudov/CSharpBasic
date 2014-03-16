@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\03Devide7And5\bin\Debug\03Devide7And5.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\03Devide7And5\bin\Debug\03Devide7And5.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\03Devide7And5\bin\Debug\03Devide7And5.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\03Devide7And5\obj\Debug\03Devide7And5.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\03Devide7And5\obj\Debug\03Devide7And5.pdb

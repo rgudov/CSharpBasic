@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\14ModifyBitGivenPosition\bin\Debug\14ModifyBitGivenPosition.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\14ModifyBitGivenPosition\bin\Debug\14ModifyBitGivenPosition.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\14ModifyBitGivenPosition\bin\Debug\14ModifyBitGivenPosition.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\14ModifyBitGivenPosition\obj\Debug\14ModifyBitGivenPosition.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\OperatorsExpressionsStatements\14ModifyBitGivenPosition\obj\Debug\14ModifyBitGivenPosition.pdb
