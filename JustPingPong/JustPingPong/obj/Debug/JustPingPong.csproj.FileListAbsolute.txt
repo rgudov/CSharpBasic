@@ -1,0 +1,6 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\JustPingPong\JustPingPong\bin\Debug\JustPingPong.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\JustPingPong\JustPingPong\bin\Debug\JustPingPong.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\JustPingPong\JustPingPong\bin\Debug\JustPingPong.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\JustPingPong\JustPingPong\obj\Debug\JustPingPong.csprojResolveAssemblyReference.cache
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\JustPingPong\JustPingPong\obj\Debug\JustPingPong.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\JustPingPong\JustPingPong\obj\Debug\JustPingPong.pdb
