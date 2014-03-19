@@ -1,0 +1,1 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConsoleInputOutput\06QuadraticEquation\bin\Debug\06QuadraticEquation.exe.config

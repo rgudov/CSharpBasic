@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConsoleInputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConsoleInputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.pdb
