@@ -1,0 +1,5 @@
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\07Sort3NumbersWiithNestedIfs\bin\Debug\07Sort3NumbersWiithNestedIfs.exe.config
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\07Sort3NumbersWiithNestedIfs\bin\Debug\07Sort3NumbersWiithNestedIfs.exe
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\07Sort3NumbersWiithNestedIfs\bin\Debug\07Sort3NumbersWiithNestedIfs.pdb
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\07Sort3NumbersWiithNestedIfs\obj\Debug\07Sort3NumbersWiithNestedIfs.exe
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\07Sort3NumbersWiithNestedIfs\obj\Debug\07Sort3NumbersWiithNestedIfs.pdb
