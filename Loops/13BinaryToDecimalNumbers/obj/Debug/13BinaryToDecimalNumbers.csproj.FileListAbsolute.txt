@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\13BinaryToDecimalNumbers\bin\Debug\13BinaryToDecimalNumbers.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\13BinaryToDecimalNumbers\bin\Debug\13BinaryToDecimalNumbers.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\13BinaryToDecimalNumbers\bin\Debug\13BinaryToDecimalNumbers.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\13BinaryToDecimalNumbers\obj\Debug\13BinaryToDecimalNumbers.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\13BinaryToDecimalNumbers\obj\Debug\13BinaryToDecimalNumbers.pdb

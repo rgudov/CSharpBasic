@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.pdb

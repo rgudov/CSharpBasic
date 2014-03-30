@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\05Calculate\bin\Debug\05Calculate.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\05Calculate\bin\Debug\05Calculate.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\05Calculate\bin\Debug\05Calculate.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\05Calculate\obj\Debug\05Calculate.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\05Calculate\obj\Debug\05Calculate.pdb

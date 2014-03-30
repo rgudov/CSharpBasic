@@ -1,0 +1,6 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\06CalculateFacturiels\bin\Debug\06CalculateFacturiels.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\06CalculateFacturiels\obj\Debug\06CalculateFacturiels.csprojResolveAssemblyReference.cache
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\06CalculateFacturiels\bin\Debug\06CalculateFacturiels.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\06CalculateFacturiels\bin\Debug\06CalculateFacturiels.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\06CalculateFacturiels\obj\Debug\06CalculateFacturiels.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\06CalculateFacturiels\obj\Debug\06CalculateFacturiels.pdb

@@ -1,0 +1,5 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\15HexadecimalDecimalNumber\bin\Debug\15HexadecimalDecimalNumber.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\15HexadecimalDecimalNumber\bin\Debug\15HexadecimalDecimalNumber.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\15HexadecimalDecimalNumber\bin\Debug\15HexadecimalDecimalNumber.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\15HexadecimalDecimalNumber\obj\Debug\15HexadecimalDecimalNumber.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\15HexadecimalDecimalNumber\obj\Debug\15HexadecimalDecimalNumber.pdb

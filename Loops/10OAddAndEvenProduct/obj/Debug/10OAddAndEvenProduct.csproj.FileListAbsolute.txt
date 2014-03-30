@@ -1,0 +1,1 @@
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\Loops\10OAddAndEvenProduct\bin\Debug\10OAddAndEvenProduct.exe.config
