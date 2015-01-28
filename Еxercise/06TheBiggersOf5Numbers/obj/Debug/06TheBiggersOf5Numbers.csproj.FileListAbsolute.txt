@@ -1,0 +1,5 @@
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggersOf5Numbers\bin\Debug\06TheBiggersOf5Numbers.exe.config
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggersOf5Numbers\bin\Debug\06TheBiggersOf5Numbers.exe
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggersOf5Numbers\bin\Debug\06TheBiggersOf5Numbers.pdb
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggersOf5Numbers\obj\Debug\06TheBiggersOf5Numbers.exe
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\06TheBiggersOf5Numbers\obj\Debug\06TheBiggersOf5Numbers.pdb

@@ -1,0 +1,5 @@
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\03ChekForAPlayCard\bin\Debug\03ChekForAPlayCard.exe.config
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\03ChekForAPlayCard\bin\Debug\03ChekForAPlayCard.exe
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\03ChekForAPlayCard\bin\Debug\03ChekForAPlayCard.pdb
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\03ChekForAPlayCard\obj\Debug\03ChekForAPlayCard.exe
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\03ChekForAPlayCard\obj\Debug\03ChekForAPlayCard.pdb

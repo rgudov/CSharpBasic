@@ -1,0 +1,9 @@
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\01exchangeGreater\bin\Debug\01exchangeGreater.exe.config
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\01exchangeGreater\bin\Debug\01exchangeGreater.exe
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\01exchangeGreater\bin\Debug\01exchangeGreater.pdb
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\01exchangeGreater\obj\Debug\01exchangeGreater.csprojResolveAssemblyReference.cache
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\01exchangeGreater\obj\Debug\01exchangeGreater.exe
+c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\01exchangeGreater\obj\Debug\01exchangeGreater.pdb
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConditionalStatements\01exchangeGreater\bin\Debug\01exchangeGreater.exe.config
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConditionalStatements\01exchangeGreater\obj\Debug\01exchangeGreater.exe
+C:\Users\rgudo_000\Documents\Visual Studio 2012\C#\ConditionalStatements\01exchangeGreater\obj\Debug\01exchangeGreater.pdb
