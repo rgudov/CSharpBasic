@@ -1,5 +1,0 @@
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\05TheBiggersOf3Numbers\bin\Debug\05TheBiggersOf3Numbers.exe.config
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\05TheBiggersOf3Numbers\bin\Debug\05TheBiggersOf3Numbers.exe
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\05TheBiggersOf3Numbers\bin\Debug\05TheBiggersOf3Numbers.pdb
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\05TheBiggersOf3Numbers\obj\Debug\05TheBiggersOf3Numbers.exe
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\05TheBiggersOf3Numbers\obj\Debug\05TheBiggersOf3Numbers.pdb

@@ -1,5 +1,0 @@
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
-c:\users\rado\documents\visual studio 2013\Projects\ConditionalStatements\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb
